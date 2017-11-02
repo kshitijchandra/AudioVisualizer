@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Visualize</string>
+
+
+    <!-- - - - - - - - - - - - - - - -
+          - Used by Preferences  -
+          - - - - - - - - - - - - - - - -->
+
+    <!-- Value in SharedPreferences for mid option -->
+    <string name="pref_show_mid_key">show_mid</string>
+    <!-- Label for show mid checkbox -->
+    <string name="pref_show_mid_label">Show Mid</string>
+    <!-- Label for show treble checkbox -->
+    <string name="pref_show_treble_label">Show Treble</string>
+    <!-- Value in SharedPreferences for treble option -->
+    <string name="pref_show_treble_key">show_treble</string>
+
+    <!-- Label for show bass checkbox -->
+    <string name="pref_show_bass_label" translatable="false">Show Bass</string>
+
+    <!-- Value in SharedPreferences for bass option -->
+    <string name="pref_show_bass_key" translatable="false">show_bass</string>
+
+
+    <string name="pref_color_key" translatable="false">color</string>
+
+    <string name="pref_color_label_red">Red</string>
+    <!-- Value in SharedPreferences for red color option -->
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_label_blue">Blue</string>
+    <!-- Value in SharedPreferences for blue color option -->
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_label_green">Green</string>
+    <!-- Value in SharedPreferences for green color option -->
+    <string name="pref_color_green_value" translatable="false">green</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_show_false">Hidden</string>
+    <string name="pref_show_true">Show</string>
+    <string name="pref_color_label">Color</string>
+
+</resources>
